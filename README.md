@@ -63,9 +63,7 @@ tugaskelompok-pbo/
 │   ├── PasienAsuransiSwasta.php
 │   └── PasienUmum.php
 │
-├── assets/
-│   └── class-diagram.png
-│
+├── class-diagram.png
 ├── rumah_sakit_pbo.sql
 ├── index.php
 └── README.md
@@ -208,7 +206,7 @@ assets/class-diagram.png
 
 Tampilan gambar UML:
 
-![Class Diagram UML](assets/class-diagram.png)
+![Class Diagram UML](class-diagram.png)
 
 ---
 
